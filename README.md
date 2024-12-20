@@ -15,10 +15,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">UNDERSTANDING T1D PROGRESSION HETEROGENEITY THROUGH THE LENSES OF WHOLE BLOOD CELL GENE EXPRESSION</h3>
 
   <p align="center">
-    project_description
+    Using latent variables (LV) derived from large public dataset to understand progression to Type-1 Diabetes (T1D) from Islet Autoimmunity (IA)
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -63,8 +63,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<h3 align="center">UNDERSTANDING T1D PROGRESSION HETEROGENEITY THROUGH THE LENSES OF WHOLE BLOOD CELL GENE EXPRESSION</h3>
 
   <p align="left">
 T1D is an autoimmune disease that progresses through three stages. The earliest phase, preceding stage 1, is known as Islet Autoimmunity (IA), when at least one of the four autoantibodies associated with beta-cell damage is detected. The time it takes to progress from IA to symptomatic T1D varies greatly between individuals. 
