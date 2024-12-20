@@ -33,13 +33,18 @@
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
         <li>
-      <a href="#How to reproduce this project">How to reproduce this project</a>
+      <a href="#How-to-reproduce-this-project">How to reproduce this project</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#How this repository was built">Repository</a></li>
+        <li>
+      <a href="#Repository">Repository</a>
+      <ul>
+        <li><a href="#How-this-repository-was-created">How this repository was created</a></li>
+        <li><a href="#How-to-use-this-repository">How to use this repository</a></li>
+      </ul>
+    </li>
   </ol>
 </details>
 
@@ -102,13 +107,11 @@ The code in this repository does the following:
 | Code/observed in food.Rmd |Identify beneficial and deleterious compounds and the food they are observed in |
 | Code/Results_last.Rmd |Summary code to output final results table |
 
-
-
-
-
+<!-- REPOSITORY -->
+## Repository
 This repository contains starter configurations for the conventional commit messages as described [here](https://www.conventionalcommits.org/en/v1.0.0/), as well as linter configurations for Python and R.
 
-## How this repository was created
+### How this repository was created
 Init repository:
 ```bash
 git init
@@ -154,7 +157,7 @@ rm .husky/pre-commit
 ```
 
 
-## How to use this repository
+### How to use this repository
 You'll need to install both Node.js and pnpm to utilize the commit rules configured for this repo.
 
 If you have not, refer to this [link](https://nodejs.org/en/download/package-manager) to install Node.js and this [link](https://pnpm.io/installation) to install pnpm.
