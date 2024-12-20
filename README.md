@@ -15,10 +15,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">UNDERSTANDING T1D PROGRESSION HETEROGENEITY THROUGH THE LENSES OF WHOLE BLOOD CELL GENE EXPRESSION</h3>
+<h3 align="center"> PhenoPLIER & T1D Progression</h3>
 
   <p align="center">
-    Using latent variables (LV) derived from large public dataset to understand progression to Type-1 Diabetes (T1D) from Islet Autoimmunity (IA)
+    In order to understand the heterogeneity of T1D progression, we project whole blood cell gene expression data from a cohort study (DIASY) into latent variables (LV) derived from large public dataset. 
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
