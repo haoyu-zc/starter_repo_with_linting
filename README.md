@@ -30,23 +30,16 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
+    <li><a href="#roadmap">Roadmap</a></li>
+        <li>
+      <a href="#How to reproduce this project">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#How this repository was built">Repository</a></li>
   </ol>
 </details>
 
@@ -64,7 +57,7 @@ RNA sequencing data from Whole blood cells have been collected on  DAISY (The Di
 
 Phenoplier uses large public data to create latent variables representing genes that are co-expressed in various diseases, conditions, or cell type. By projecting RNAseq data from DAISY into Phenoplier’s latent space we aim to gain a more rounded biological interpretation of differential gene expression between Maintainers (M), Progressors (P), and reversers (R) through the lenses of drug mechanisms, other diseases, and gene expression in specific tissues.
 
-The Health driven biomarker project has three aims:
+The code in this repository does the following: 
 
 1. **Identify gene modules (LV) that are differentially expressed between M. P and R**
 2. **Analyze expression of gene modules in cell types and conditions.**
@@ -72,7 +65,9 @@ The Health driven biomarker project has three aims:
     
   </p>
 
-<!-- Code Roadmap -->
+<!-- ROADMAP -->
+## Roadmap
+
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
