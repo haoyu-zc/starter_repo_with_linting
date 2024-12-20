@@ -19,15 +19,6 @@
 
   <p align="center">
     In order to understand the heterogeneity of T1D progression, we project whole blood cell gene expression data from a cohort study (DIASY) into latent variables (LV) derived from large public dataset. 
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </div>
 
