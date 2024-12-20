@@ -33,7 +33,7 @@
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
         <li>
-      <a href="#How to reproduce this project">Getting Started</a>
+      <a href="#How to reproduce this project">How to reproduce this project</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
