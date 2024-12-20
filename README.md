@@ -81,31 +81,36 @@ The code in this repository does the following:
 </div>
 
 
-<h3 align="center">AIM 1</h3>
+<h3 align="center">Gene module Identification</h3>
 
 | File Name/ Location           | Function  |
 |:-------------:|:-----|
-| osca/OSCA_data_prep.Rmd | convert data into txt format for OSCA, code to run OSCA in bash, code format osca results into csv |
-|   Code/OSCA_Results_viz.Rmd |Visualizing AQ and LP OSCA results into bar charts with confidence interval at crossectional (4 timepoints), and change (timepoint 1-timepoint4) level|
-| Code/OSCA_change_1_2.Rmd     |Visualizing AQ and LP OSCA results into bar charts with confidence interval at crossectional (4 timepoints), and change (timepoint 1-timepoint2 & timepoint 3-timepoint 4) level|
+| file_1 | bla bla bla bla  |
+|   file_2 |bla bla bla bla|
+| file_3     |bla bla bla bla|
 
 
-<h3 align="center">AIM 2</h3>
-
-| File Name/ Location           | Function  |
-|:-------------:|:-----|
-| Code/AQ_Cpds_in_Plasma_Norm.Rmd | Quality control, Batch effect removal, normalization, ranking of AQ/LP compounds|
-|   Code/Ranked_AQ_change.Rmd |Compute change in ranks and identify compounds that significantly changed|
-| Code/ranked_AQ_health_associations.Rmd   |identify Significant associations between health and compounds rank at change and crossectional level|
-| Code/Heatmap.Rmd | Heatmap of: 1. compounds that changed after diet 2. compounds which change associated with change in health |
-
-<h3 align="center">AIM 3</h3>
+<h3 align="center">Gene module analysis 2</h3>
 
 | File Name/ Location           | Function  |
 |:-------------:|:-----|
-| Code/food_process.Rmd | Code to identify compounds in common between seen in food and compounds of interest|
-| Code/observed in food.Rmd |Identify beneficial and deleterious compounds and the food they are observed in |
-| Code/Results_last.Rmd |Summary code to output final results table |
+| file_1 | bla bla bla bla  |
+|   file_2 |bla bla bla bla|
+| file_3     |bla bla bla bla|
+
+<h3 align="center">from LV to T1D Pathogenesis</h3>
+
+| File Name/ Location           | Function  |
+|:-------------:|:-----|
+| file_1 | bla bla bla bla  |
+|   file_2 |bla bla bla bla|
+| file_3     |bla bla bla bla|
+
+<!-- REPOSITORY -->
+
+## How to reproduce this project
+
+### Prerequisites
 
 <!-- REPOSITORY -->
 ## Repository
