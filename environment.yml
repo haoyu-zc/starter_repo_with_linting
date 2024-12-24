@@ -1,0 +1,20 @@
+name: T1D_Pheno
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab=4.2
+  - python=3.12
+  - ca-certificates
+  - certifi
+  - openssl
+  - pip
+  - notebook
+  - nb_conda_kernels
+  - jupyter_contrib_nbextensions
+  - r
+  - r-irkernel
+  - r-ggplot2
+  - r-dplyr
+  - r-tidyverse
+  - r-reticulate
+prefix: /Users/rasolofs/miniforge3/envs/T1D_Pheno
