@@ -16,6 +16,7 @@ dependencies:
   - r-dplyr
   - r-tidyverse
   - r-reticulate
+  - r-jsonlite
   - matplotlib=3.9.*
   - python=3.11.*
   - seaborn=0.13.*
